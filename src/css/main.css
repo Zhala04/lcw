@@ -1,0 +1,15 @@
+.main{
+    height: 93vh;
+    width: 100%;
+    background-image: url('https://s3.eu-central-1.amazonaws.com/stajim/media/images/section/photo/5e7314e48ad68.png');
+    background-position: center;
+    background-size: cover;
+    padding-left: 420px;
+    padding-top: 150px;
+}
+.main a{
+    text-decoration: none;
+}
+.main button{
+    transform: scale(1.5);
+}
